@@ -1,0 +1,14 @@
+{
+  "main": "p0we.js",
+  "scripts": {
+    "start": "node p0we.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
